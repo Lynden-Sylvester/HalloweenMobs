@@ -1,0 +1,11 @@
+name: HalloweenMobSpawns
+version: 1.0
+author: lyndensylvester
+api-version: 1.17
+main: me.lyndensylvester.halloween.Main
+description: First MC plugin
+
+commands:
+  halloween:
+    aliases: [hallow]
+    description: this is the halloween command!

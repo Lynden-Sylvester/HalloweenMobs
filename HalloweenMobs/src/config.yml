@@ -1,0 +1,47 @@
+#========================================#
+#                                        #
+#                   This is              #
+#                                        #
+#                  Halloween!            #
+#                                        #
+#========================================#
+
+
+# The messages broadcast when a player either succeeds or fails to summon a minion
+
+Summon_Messages:
+
+
+  # Broadcast messages for the Melon Minion 
+  
+  Melon_Minion:
+    
+   Melon_Fail: '&c<player> &7has failed &esummoning &7a &2M&4e&2l&4o&2n &4M&2i&4n&2i&4o&2n&4!'
+    
+   Melon_Success: '&a<player> &7 has &esummoned &7a &2M&4e&2l&4o&2n &4M&2i&4n&2i&4o&2n&4!'
+   
+   Spawn_Chance: 50
+   
+   Spawn: true
+
+
+  # Broadcast messages for the Pumpkin Minion
+  
+  Pumpkin_Minion:
+    
+   Pumpkin_Fail: '&c<player> &7has failed &esummoning &7a &6p&8u&6m&8p&6k&8i&6n &8M&6i&8n&6i&8o&6n&8!'
+    
+   Pumpkin_Success: '&a<player> &7has &esummoned &7a &6p&8u&6m&8p&6k&8i&6n &8M&6i&8n&6i&8o&6n&8!'
+   
+   Spawn_Chance: 50
+   
+   Spawn: true
+  
+
+# Toggle custom spawns on/off
+
+Spawn_Custom_Mobs:
+
+  Spawn: true
+
+  Mobs: 'Custom mobs are turned off!'
